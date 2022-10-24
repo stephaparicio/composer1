@@ -1,0 +1,10 @@
+{
+    "name": "megane/quest-composer-2",
+    "description": "Challenge Composer 2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
